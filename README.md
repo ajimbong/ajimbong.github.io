@@ -1,7 +1,7 @@
 Spying on me bruh?
 <br>
 <br>
-This is your IP: <b id="ip"></b>
+This is your IP address: <b id="ip"></b>
 <br>
 I know who you are 👀👊
 
