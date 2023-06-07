@@ -1,5 +1,3 @@
-# Ajim's Property
-
 Spying on me bruh?
 <br>
 <br>
